@@ -32,9 +32,9 @@ This is a mini React application designed for ordering meals and drinks while tr
 ![Screenshot 1](./ScreenShots/Screenshot%20(178).png)
 *Home Page*
 ![Screenshot 2](./ScreenShots/Screenshot%20(179).png)
-*Main Page*
+*Loading Page*
 ![Screenshot 3](./ScreenShots/Screenshot%20(180).png)
-*Loading pa6e*
+*Main pa6e*
 ![Screenshot 3](./ScreenShots/Screenshot%20(181).png)
 *Responsive design for mobile screen*
 
