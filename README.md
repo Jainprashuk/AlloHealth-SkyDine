@@ -29,13 +29,13 @@ This is a mini React application designed for ordering meals and drinks while tr
 ### Backend  : https://allo-health-backend.vercel.app/api/gettags
 
 # ScreenShots Of Projects
-![Screenshot 1](./screenshots/Screenshot%20(178).png)
+![Screenshot 1](./screenShots/Screenshot%20(178).png)
 *Home Page*
-![Screenshot 2](./screenshots/Screenshot%20(179).png)
+![Screenshot 2](./screenShots/Screenshot%20(179).png)
 *Main Page*
-![Screenshot 3](./screenshots/Screenshot%20(180).png)
+![Screenshot 3](./screenShots/Screenshot%20(180).png)
 *Loading pa6e*
-![Screenshot 3](./screenshots/Screenshot%20(181).png)
+![Screenshot 3](./screenShots/Screenshot%20(181).png)
 *Responsive design for mobile screen*
 
 # setup 
