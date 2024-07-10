@@ -43,7 +43,7 @@ This is a mini React application designed for ordering meals and drinks while tr
 1. Move to Frontend Repository `cd frontend`
 2. Install dependencies: `npm install`.
 3. Start the development server: `npm run dev`.
-4. Access the frontend application at `http://localhost:5173` in your browser. (The App Will Not Work As Expected on localServer As Auth0 Was Setup on https://allo-health-frontend.vercel.app/)
+4. Access the frontend application at `http://localhost:5173` in your browser. 
 
 ## Backend Setup 
 1. Move To Backend Repository `cd backend`
